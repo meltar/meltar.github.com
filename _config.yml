@@ -12,10 +12,10 @@ title : Melissa Holmes
 tagline: Rails Developer
 author :
   name : Melissa Holmes
-  email : blah@email.test
+  email : blah
   github : meltar
   twitter : mel_tar
-  linkedin : linkedin
+  linkedin : melissa-holmes
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
