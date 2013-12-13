@@ -7,3 +7,7 @@ tagline: Rails Developer
 group: navigation
 ---
 {% include JB/setup %}
+
+<p>
+	About me
+</p>
