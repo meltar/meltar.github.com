@@ -5,6 +5,7 @@ name: Melissa Holmes
 tagline: Rails Developer
 description: "Recent Apps"
 group: navigation
+weight: 1
 ---
 {% include JB/setup %}
 ***
