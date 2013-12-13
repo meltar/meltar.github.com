@@ -1,4 +1,4 @@
-[meltar.github.io](meltar.github.io)
+[meltar.github.com](meltar.github.com)
 =====================
 
 Personal website portfolio for Melissa Holmes based on Jekyll-Bootstrap.
