@@ -8,8 +8,13 @@ group: navigation
 ---
 {% include JB/setup %}
 
-<ul class="project">
-	{% for project in site.projects %}
-    <li><span>{{ project.name }}</span> &raquo; <a href="{{ project.source_url }}">{{ project.name }} Source</a></li>
-	{% endfor %}
-</ul>
+
+{% assign group = 'projects' %}
+
+{% for node in site.pages %}
+	{% if group == node.group %}
+		{{ node.title }}
+	{% endif %}
+{% endfor %}
+
+{% assign group = nil %}
