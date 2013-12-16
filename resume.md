@@ -8,9 +8,7 @@ weight: 3
 {% include JB/setup %}
 
 
-# Experience
-
-***
+## Experience
 
 **Ruby on Rails Intern**, *Big Nerd Ranch*, Atlanta, GA.
 
@@ -46,18 +44,18 @@ Fall 2007
 - Maintained company's internal web pages
 -
 
-# Education
+## Education
 
 **Bachelor's Degree in Computer Science, Minor in Fine Arts** *Clemson University*, Clemson, SC.
 
 
-# Skills
+## Skills
 
 - Ruby
 - Ruby on Rails
 - C++
 
-# Organizations
+## Organizations
 
 * [Atlanta Ruby Users Group](http://www.meetup.com/atlantaruby/)
 * [Rails Girls](http://www.meetup.com/Rails-Girls-Atlanta/)

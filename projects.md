@@ -8,12 +8,12 @@ weight: 1
 ---
 {% include JB/setup %}
 
-# Personal Porfolio
-## [http://meltar.github.com](http://meltar.github.com)
+## Personal Porfolio
+### **[http://meltar.github.com](http://meltar.github.com)**
 My personal portolio - You are looking at it now!
 
 I wanted to find out more about Jekyll, so I
-used to to make my personal site.
+used it to make my personal portfolio and blog.
 
 Source: [https://github.com/meltar/meltar.github.com](https://github.com/meltar/meltar.github.com)
 
@@ -21,8 +21,8 @@ Source: [https://github.com/meltar/meltar.github.com](https://github.com/meltar/
 
 ***
 
-# Challenge Champion
-## (None)
+## Challenge Champion
+### **(None)**
 My project with [Kylie Stradley](https://github.com/kstradley) for the Atlanta Rails Girls
 [Silly Hacks Only](http://www.meetup.com/Rails-Girls-Atlanta/events/141284772/) event.
 
@@ -36,8 +36,8 @@ Source: [https://github.com/meltar/ChallengeChampion](https://github.com/meltar/
 
 ***
 
-# Ruby on Rails Tutorial Sample App
-## [http://intense-citadel-7377.herokuapp.com/](http://intense-citadel-7377.herokuapp.com/)
+## Ruby on Rails Tutorial Sample App
+### **[http://intense-citadel-7377.herokuapp.com/](http://intense-citadel-7377.herokuapp.com/)**
 Michael Hartl's Ruby on Rails Tutorial updated for Rails 4.
 
 Source: [https://github.com/meltar/sample_app_rails4](https://github.com/meltar/sample_app_rails4)
@@ -46,8 +46,7 @@ Source: [https://github.com/meltar/sample_app_rails4](https://github.com/meltar/
 
 ***
 
-# To Do List
-
+## To Do List
 A basic 'To Do List' project, first implemented as a Ruby console application, then as a
 Rails site.
 
@@ -59,9 +58,10 @@ Ruby console source: [https://github.com/meltar/todo_list_app](https://github.co
 
 ***
 
-# Game Night
-## None
-Description
+## Game Night
+### **(None)**
+An app for friends to catalogue their board games, see what games other people have, and 
+organize board game nights through Google Calendar.
 
 Source: [https://github.com/meltar/GameNight](https://github.com/meltar/GameNight)
 
