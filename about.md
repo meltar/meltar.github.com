@@ -1,9 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "test text"
-name: Melissa Holmes
-tagline: Rails Developer
+tagline: ""
 group: navigation
 weight: 2
 ---

@@ -1,14 +1,12 @@
 ---
 layout: page
 title: "Projects"
-name: Melissa Holmes
-tagline: Rails Developer
+tagline: ""
 description: "Recent Apps"
 group: navigation
 weight: 1
 ---
 {% include JB/setup %}
-***
 
 # Personal Porfolio
 ## [http://meltar.github.com](http://meltar.github.com)
