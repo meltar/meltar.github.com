@@ -7,13 +7,13 @@ tags: []
 ---
 {% include JB/setup %}
 
-Yesterday, I attended my first Code Retreat.  I wished I went to the last one in Atlanta, 
+Yesterday, I attended my first Code Retreat.  I wish I went to the last one in Atlanta, 
 but I wasn't sure I was ready at the time.  I think my Ruby skills would have been fine 
-based on what I heard about it lateri, so I was eagerly waiting for the next one.  I signed 
+based on what I heard about it later, so I was eagerly waiting for the next one.  I signed 
 up right away when this Code Retreat was announced.
 
-The code retreat was split into six sessions.  We worked in pairs implementing Conway's Game 
-of Life each time, but there were special instructions for most of the sessions.  Working 
+The code retreat was split into six sessions.  We worked in pairs implementing [Conway's Game 
+of Life](http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) each time, but there were special instructions for most of the sessions.  Working 
 with constraints was kind of tricky when I worked with someone who didn't know TDD or Ruby.
 
 I never got far enough to work on the actual rules based on the neighboring cells in Conway's 
