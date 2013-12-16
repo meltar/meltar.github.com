@@ -88,6 +88,12 @@ hr {
 }
 
 /* Layout */
+/* image */
+.banner {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
 /* line 81, ../_sass/_base.scss */
 .navbar {
   margin-bottom: 0;
