@@ -2,8 +2,8 @@
 layout: post
 title: "Making a Jekyll site"
 description: ""
-category: ""
-tags: []
+category: "meltar.holmes.io"
+tags: [Jekyll, GitHub Pages, Markdown]
 ---
 {% include JB/setup %}
 

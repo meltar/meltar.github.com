@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Global Day of Code Retreat 2013"
-description: ""
 category: ""
-tags: []
+tagline: "Global Day of Code Retreat 2013"
+tags: [Code Retreat, TDD, Conway's Game of Life]
 ---
 {% include JB/setup %}
 
