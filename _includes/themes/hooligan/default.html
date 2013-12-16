@@ -51,14 +51,27 @@
 
           <div class="nav-collapse">
             <ul class="nav">
-							{% for p in site.pages | sort:weight %}
-								{% if p.group == 'navigation' %}
-									<li>
-										<a {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url }}">
-											{{ p.title }}</a>
-									</li>
-								{% endif %}
-							{% endfor %}
+							<li>
+								<a class="active" href="{{ site.url }}/about.html">About</a>
+							</li>
+							<li>
+								<a class="active" href="{{ site.url }}/resume.html">Resume</a>
+							</li>
+							<li>
+								<a class="active" href="{{ site.url }}/projects.html">Projects</a>
+							</li>
+							<li>
+								<a class="active" href="{{ site.url }}/blog.html">Blog</a>
+							</li>
+							<li>
+								<a class="active" href="{{ site.url }}/archive.html">Archive</a>
+							</li>
+            </ul>
+            </ul>
+            </ul>
+            </ul>
+            </ul>
+            </ul>
             </ul>
             <ul class="nav pull-right social visible-desktop">
               <li class="divider-vertical"></li>
