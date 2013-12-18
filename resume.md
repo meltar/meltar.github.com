@@ -59,3 +59,4 @@ Fall 2007
 
 * [Atlanta Ruby Users Group](http://www.meetup.com/atlantaruby/)
 * [Rails Girls](http://www.meetup.com/Rails-Girls-Atlanta/)
+* [Women who Code](http://www.meetup.com/Women-Who-Code-Atlanta/)
