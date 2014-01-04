@@ -22,7 +22,7 @@ Source: [https://github.com/meltar/meltar.github.com](https://github.com/meltar/
 ***
 
 ## Challenge Champion
-### **(None)**
+### **[http://challengechampion.herokuapp.com](http://challengechampion.herokuapp.com)**
 My project with [Kylie Stradley](https://github.com/kstradley) for the Atlanta Rails Girls
 [Silly Hacks Only](http://www.meetup.com/Rails-Girls-Atlanta/events/141284772/) event.
 
