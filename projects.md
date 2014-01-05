@@ -40,6 +40,11 @@ Source: [https://github.com/meltar/ChallengeChampion](https://github.com/meltar/
 ### **[http://intense-citadel-7377.herokuapp.com/](http://intense-citadel-7377.herokuapp.com/)**
 Michael Hartl's Ruby on Rails Tutorial updated for Rails 4.
 
+###Credentials
+
+* Username:  `example@railstutorial.org`
+* Password:  `foobar`
+
 Source: [https://github.com/meltar/sample_app_rails4](https://github.com/meltar/sample_app_rails4)
 
 `Ruby on Rails` `Rspec`
