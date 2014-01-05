@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Melissa Holmes
-tagline: Rails Developer
+tagline: Sofware Developer
 ---
 {% include JB/setup %}
 
