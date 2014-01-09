@@ -78,7 +78,7 @@ h6 {
 .nav-tabs > li > a:hover {
   border-color: #2f2f2f #2f2f2f #666666 #2f2f2f;
   background-color: #222222;
-  color: #00aaff;
+  color: #97E8D4;
 }
 /* line 83, ../sass/darkstrap.scss */
 .nav-tabs.nav-stacked > li > a, .nav-tabs.nav-stacked > li > a:hover {
@@ -88,7 +88,7 @@ h6 {
 /* line 89, ../sass/darkstrap.scss */
 .nav-pills > li > a:hover {
   background-color: #222222;
-  color: #00aaff;
+  color: #97E8D4;
 }
 
 /* line 95, ../sass/darkstrap.scss */
