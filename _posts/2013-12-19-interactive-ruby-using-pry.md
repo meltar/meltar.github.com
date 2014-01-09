@@ -3,7 +3,7 @@ layout: post
 title: "Interactive Ruby Using Pry"
 description: ""
 category: "Rails Girls"
-tags: [Ruby, Ruby on Rails, gems, public speaking, Rails Girls]
+tags: [Ruby, Ruby on Rails, Gems, Public Speaking, Rails Girls]
 ---
 {% include JB/setup %}
 
