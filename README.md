@@ -1,4 +1,4 @@
-[melissa.holmes.io](melissa.holmes.io)
+[melissa.holmes.io](http://melissa.holmes.io)
 =====================
 
 Personal website portfolio for Melissa Holmes based on Jekyll-Bootstrap and hosted on
