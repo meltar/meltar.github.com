@@ -1,7 +1,8 @@
-[meltar.github.com](meltar.github.com)
+[melissa.holmes.io](melissa.holmes.com)
 =====================
 
-Personal website portfolio for Melissa Holmes based on Jekyll-Bootstrap.
+Personal website portfolio for Melissa Holmes based on Jekyll-Bootstrap and hosted on
+GitHub Pages.
 
 # Jekyll-Bootstrap
 
