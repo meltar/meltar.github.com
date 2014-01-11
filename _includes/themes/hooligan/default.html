@@ -57,11 +57,12 @@
 							<li>
 								<a class="active" href="{{ site.url }}/projects.html">Projects</a>
 							</li>
-							<li>
-								<a class="active" href="{{ site.url }}/blog.html">Blog</a>
-							</li>
-							<li>
-								<a class="active" href="{{ site.url }}/archive.html">Archive</a>
+							<li class="dropdown">
+							  <a class="dropdown-toggle" href="#" data-toggle="dropdown">Blog <strong class="caret"></strong></a>
+							  <ul class="dropdown-menu" style="padding: 15px; padding-bottom: 0px;">
+									<li><a class="active" href="{{ site.url }}/blog.html">Recent posts</a></li>
+									<li><a class="active" href="{{ site.url }}/archive.html">Archive</a></li>
+							  </ul>
 							</li>
             </ul>
             <ul class="nav pull-right social">
