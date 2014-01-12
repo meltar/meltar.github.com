@@ -60,6 +60,12 @@ h6 {
 	color: #c6c6c6;
 }
 
+.navbar-inner {
+	box-shadow: 0 0 0;
+	background-color: #2D2C36;
+	background-image: none;
+}
+
 .navbar .nav > li > .dropdown-menu:after {
 	position: absolute;
 	top: -6px;
