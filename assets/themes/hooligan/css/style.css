@@ -392,3 +392,8 @@ div.sidebar section img.icon {
   -o-border-radius: 5px;
   border-radius: 5px;
 }
+
+.dropdown-menu .divider {
+	background-color: #111;
+	border-bottom: 1px solid #333;
+}
