@@ -135,6 +135,7 @@ hr {
 /* line 103, ../_sass/_base.scss */
 .container > footer p {
   text-align: center;
+	font-size: small;
   /* center align it with the container */
 }
 
