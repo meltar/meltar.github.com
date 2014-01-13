@@ -42,12 +42,12 @@ Fall 2007
 2006
 
 - Maintained company's internal web pages
--
+<br>
 
 ## Education
 
 ###**Bachelor's Degree in Computer Science, Minor in Fine Arts** Clemson University, Clemson, SC.
--
+<br>
 
 ## Skills
 
@@ -57,6 +57,7 @@ Fall 2007
 - Git
 - Pivotal Tracker
 - TestTrack
+<br>
 
 ## Organizations
 
