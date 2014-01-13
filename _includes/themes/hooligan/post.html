@@ -5,7 +5,6 @@
 <div class="row">
   <div class="span8">
     {{ content }}
-    <hr>
     <div class="pagination btn-group">
       {% if page.previous %}
         <a class="btn prev" href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a>
@@ -19,7 +18,6 @@
         <a class="btn next disabled">Next &rarr;</a>
       {% endif %}
     </div>
-    <hr>
     {% include JB/comments %}
   </div>
   
