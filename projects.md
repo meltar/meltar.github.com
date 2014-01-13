@@ -8,19 +8,6 @@ weight: 1
 ---
 {% include JB/setup %}
 
-## Personal Porfolio
-### **[http://meltar.github.com](http://meltar.github.com)**
-My personal portolio - You are looking at it now!
-
-I wanted to find out more about Jekyll, so I
-used it to make my personal portfolio and blog.
-
-Source: [https://github.com/meltar/meltar.github.com](https://github.com/meltar/meltar.github.com)
-
-`Jekyll` `Markdown` `Github Pages`
-
-***
-
 ## Challenge Champion
 ### **[http://challengechampion.herokuapp.com](http://challengechampion.herokuapp.com)**
 My project with [Kylie Stradley](https://github.com/kstradley) for the Atlanta Rails Girls
@@ -73,3 +60,15 @@ Source: [https://github.com/meltar/GameNight](https://github.com/meltar/GameNigh
 `Ruby on Rails`
 
 ***
+
+## Personal Porfolio
+### **[http://meltar.github.com](http://meltar.github.com)**
+My personal portolio - You are looking at it now!
+
+I wanted to find out more about Jekyll, so I
+used it to make my personal portfolio and blog.
+
+Source: [https://github.com/meltar/meltar.github.com](https://github.com/meltar/meltar.github.com)
+
+`Jekyll` `Markdown` `Github Pages`
+
