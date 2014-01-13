@@ -12,7 +12,7 @@ myself all of the HTML I needed, and though I didn't need something very advance
 interested in learning how to make more complex sites.
 
 When I started college, I planned to major in Graphic Communications, but I quickly changed my mind and started 
-taking computer science classes.  I was interested in many other topics too, so I graduated from [Clemson University](http://clemson.edu) 
+taking computer science classes.  I was interested in many other topics as well, so I graduated from [Clemson University](http://clemson.edu) 
 with a major in Computer Science and a minor in fine arts.
 
 After graduating, I got a job at [Drake Software](http://drakesoftware.com) working on file conversion applications in C++.  This was interesting
