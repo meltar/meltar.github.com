@@ -10,7 +10,7 @@ weight: 3
 
 ## Experience
 
-**Ruby on Rails Intern**, *Big Nerd Ranch*, Atlanta, GA.
+###**Ruby on Rails Intern**, Big Nerd Ranch, Atlanta, GA.
 
 Fall 2013
 
@@ -19,7 +19,7 @@ Fall 2013
 - Provided the mobile app development teams with support for the API
 -
 
-**Application Programmer**, *Drake Software*, Franklin, NC.
+###**Application Programmer**, Drake Software, Franklin, NC.
 
 2008 - Summer 2013
 
@@ -30,14 +30,14 @@ Fall 2013
 - Collaborated with other teams to ensure data correctness
 -
 
-**Student Developer**, *Clemson, School of Computing*, Clemson, SC.
+###**Student Developer**, Clemson School of Computing, Clemson, SC.
 
 Fall 2007
 
 - Wrote and organized an online help resource for MessageGrid, a tool for teachers
 -
 
-**Co-op Internal Developer**, *Mount Vernon Mills*, Mauldin, SC.
+###**Co-op Internal Developer**, Mount Vernon Mills, Mauldin, SC.
 
 2006
 
@@ -46,14 +46,17 @@ Fall 2007
 
 ## Education
 
-**Bachelor's Degree in Computer Science, Minor in Fine Arts** *Clemson University*, Clemson, SC.
-
+###**Bachelor's Degree in Computer Science, Minor in Fine Arts** Clemson University, Clemson, SC.
+-
 
 ## Skills
 
 - Ruby
 - Ruby on Rails
 - C++
+- Git
+- Pivotal Tracker
+- TestTrack
 
 ## Organizations
 
