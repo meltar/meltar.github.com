@@ -2,8 +2,8 @@
 layout: post
 title: "Rails Girls Etsy Treasury"
 description: ""
-category: ""
-tags: []
+category: "Other"
+tags: [Etsy, Non-technical, Rails Girls]
 ---
 {% include JB/setup %}
 

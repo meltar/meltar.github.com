@@ -2,7 +2,7 @@
 layout: post
 title: "Introduction"
 description: ""
-category: "Personal"
+category: "Personal site"
 tags: []
 ---
 {% include JB/setup %}

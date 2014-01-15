@@ -1,6 +1,6 @@
 ---
 layout: post
-category: ""
+category: "Events"
 tagline: "Global Day of Code Retreat 2013"
 tags: [Code Retreat, TDD, Conway's Game of Life]
 ---

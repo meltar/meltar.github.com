@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Interactive Ruby Using Pry"
-description: ""
+description: "Presentation for Rails Girls"
 category: "Rails Girls"
 tags: [Ruby, Ruby on Rails, Gems, Public Speaking, Rails Girls]
 ---
