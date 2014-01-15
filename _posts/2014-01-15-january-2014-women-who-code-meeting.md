@@ -27,3 +27,8 @@ the ["How to Learn Javascript Properly"](http://javascriptissexy.com/how-to-lear
 study group on [Reddit](http://www.reddit.com/r/learn_js_in_seattle/comments/2tziaa/new_study_group_starting_january_2014/)
 which happens to be starting this week. I have a few app ideas that require
 Javascript knowledge, so I hope I learn a lot!
+
+Quite a few more people attended this meetup compared to the December meeting,
+and I met some lady developers who seem really cool and knowledgeable.  I hope
+to see them again soon because it's really nice to talk to people from different
+backgrounds.
