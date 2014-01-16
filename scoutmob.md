@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Toasty Ruby Hands"
+title: "Toasty warm Ruby hands"
 description: ""
 group: ""
 weight: 3
