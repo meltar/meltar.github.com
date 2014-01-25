@@ -14,8 +14,8 @@ weight: 3
 
 Fall 2013
 
-- Wrote an internal app utilizing the Google API for Google Groups and settings
-- Assisted another developer building an international API client project
+- Wrote an internal Rails app utilizing OAuth2 and the Google API for Google Groups and Settings
+- Assisted another developer building an international API client project in Rails
 - Provided the mobile app development teams with support for the API
 -
 
@@ -23,8 +23,8 @@ Fall 2013
 
 2008 - Summer 2013
 
-- Developed ten file conversion products shipped annually with thousands of clients
-- Updated I/O to work with competitors' files each year
+- Maintained C++ code for  ten file conversion products shipped annually with thousands of clients
+- Updated I/O in C++ to work with competitors' files each year
 - Provided customer support for several of Drake Software's products
 - Trained new group member
 - Collaborated with other teams to ensure data correctness
@@ -34,7 +34,8 @@ Fall 2013
 
 Fall 2007
 
-- Wrote and organized an online help resource for MessageGrid, a tool for teachers
+- Wrote documentation and tutorials for MessageGrid, a tool for teachers
+- Built a static HTML website to provide the MessageGrid help resources to its users
 -
 
 ###**Co-op Internal Developer**, Mount Vernon Mills, Mauldin, SC.
@@ -55,6 +56,7 @@ Fall 2007
 - Ruby on Rails
 - C++
 - Git
+- Vim
 - Pivotal Tracker
 - TestTrack
 <br>
