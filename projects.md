@@ -29,8 +29,8 @@ Michael Hartl's Ruby on Rails Tutorial updated for Rails 4.
 
 ###Credentials
 
-* Username:  `example@railstutorial.org`
-* Password:  `foobar`
+Username:  `example@railstutorial.org`  
+Password:  `foobar`
 
 Source: [https://github.com/meltar/sample_app_rails4](https://github.com/meltar/sample_app_rails4)
 
@@ -42,8 +42,7 @@ Source: [https://github.com/meltar/sample_app_rails4](https://github.com/meltar/
 A basic 'To Do List' project, first implemented as a Ruby console application, then as a
 Rails site.
 
-Rails app source: [https://github.com/meltar/todo_list_rails](https://github.com/meltar/todo_list_rails)
-
+Rails app source: [https://github.com/meltar/todo_list_rails](https://github.com/meltar/todo_list_rails)  
 Ruby console source: [https://github.com/meltar/todo_list_app](https://github.com/meltar/todo_list_app)
 
 `Ruby on Rails` `Ruby`
