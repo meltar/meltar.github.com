@@ -10,6 +10,14 @@ weight: 3
 
 ## Experience
 
+###**Web Developer**, Rentpath, Norcross, GA.
+
+Winter 2014 - Present
+
+- Supported Ruby on Rails and Sinatra websites by resolving bug reports.
+- Paired with other developers to complete Pivotal stories each iteration.
+-
+
 ###**Ruby on Rails Intern**, Big Nerd Ranch, Atlanta, GA.
 
 Fall 2013
@@ -21,7 +29,7 @@ Fall 2013
 
 ###**Application Programmer**, Drake Software, Franklin, NC.
 
-2008 - Summer 2013
+Spring 2008 - Summer 2013
 
 - Maintained C++ code for  ten file conversion products shipped annually with thousands of clients
 - Updated I/O in C++ to work with competitors' files each year
@@ -54,6 +62,10 @@ Fall 2007
 
 - Ruby
 - Ruby on Rails
+- Sinatra
+- Coffeescript
+- Javascript
+- jQuery
 - C++
 - Git
 - Vim
