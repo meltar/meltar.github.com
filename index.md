@@ -27,7 +27,8 @@ many brilliant developers was so much more interesting and and challenging than 
 to be paid to learn once again.  My internship ended in December of 2013, so I'm working on some
 [personal apps]({{ site.url }}/projects.html) and leveling up my web development skills now.
 
-I also enjoy making and building things off the computer.  I do quite a bit of knitting, and I love the
+I also enjoy making and building things off the computer.  I do quite a bit of [knitting](http://knitknot.net),
+and I love the
 process of knitting as much as the finished projects.  I'm always up for learning a new technique or figuring
 out how to modify instructions to get what I want.  I love nature and gardening. I have a small vegetable and herb
 garden at my apartment as well as a succulent collection.  I also enjoy drawing, reading sci-fi and fantasy books,
