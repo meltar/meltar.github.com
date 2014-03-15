@@ -3,7 +3,7 @@ layout: post
 title: "January 2014 Women Who Code meeting"
 description: ""
 category: "Women Who Code"
-tags: [Javascript, Meetups]
+tags: [Javascript, Meetups, Women Who Code]
 ---
 {% include JB/setup %}
 
