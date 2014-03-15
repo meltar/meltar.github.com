@@ -8,7 +8,7 @@ tags: [Ruby, Ruby on Rails, Gems, Public Speaking, Rails Girls]
 {% include JB/setup %}
 
 <div class="blog-photo">
-	<img src="{{ site.url }}/assets/pry.png" />
+	<img src="{{ site.url }}/assets/pictures/pry.png" />
 </div>
 
 Last night I gave a talk at [Rails Girls Atlanta meetup](http://www.meetup.com/Rails-Girls-Atlanta/events/147082012/) 
