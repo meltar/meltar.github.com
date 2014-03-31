@@ -105,6 +105,15 @@ hr {
 	padding: 25px;
 }
 
+.speaking-photo {
+	max-width: 400px;
+	width: 100%;
+	height: auto;
+	display: block;
+	margin-right: auto;
+	padding: 25px;
+}
+
 /* line 81, ../_sass/_base.scss */
 .navbar {
   margin-bottom: 0;
