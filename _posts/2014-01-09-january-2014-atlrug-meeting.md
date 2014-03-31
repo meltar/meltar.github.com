@@ -3,7 +3,7 @@ layout: post
 title: "January 2014 ATLRUG meeting"
 description: ""
 category: "ATLRUG"
-tags: [Meetups, ATLRUG, Searching, Sunspot, OpenShift, Ruby on Rails, Public Speaking]
+tags: [Meetups, ATLRUG, Searching, Sunspot, OpenShift, Ruby on Rails]
 ---
 {% include JB/setup %}
 
