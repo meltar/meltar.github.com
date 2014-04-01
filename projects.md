@@ -62,7 +62,7 @@ Source: [https://github.com/meltar/GameNight](https://github.com/meltar/GameNigh
 
 ## Personal Portfolio
 ### **[http://meltar.github.com](http://meltar.github.com)**
-My personal portolio - You are looking at it now!
+My personal portfolio - You are looking at it now!
 
 I wanted to find out more about Jekyll, so I
 used it to make my personal portfolio and blog.
