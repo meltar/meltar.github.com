@@ -10,7 +10,7 @@ tags: [Rails Girls, Ruby, Ruby on Rails, Gems, Open Source, Meetups]
 It's the last week of the month again, so last night I went to the monthly 
 [Rails Girls Atlanta](http://www.meetup.com/Rails-Girls-Atlanta/events/166883822/)
 meeting.  We've been switching between a few different locations recently, and this
-meeing was at the new [Big Nerd Ranch](http://www.bignerdranch.com/) office. I was very
+meeting was at the new [Big Nerd Ranch](http://www.bignerdranch.com/) office. I was very
 curious to see what the office would be like since I used to work at BNR, and I really
 liked their previous offices.  There was still some construction going on, but I was
 jealous to see that there were individual motorized sitting/standing desks everywhere.
@@ -21,13 +21,13 @@ Our monthly presenter was Kylie Stradley.  She gave a two part talk on a) the Ru
 [railroady](https://github.com/preston/railroady) and b) contributing to open source.
 
 Railroady sounds really helpful because it generates model and controller diagrams showing
-inheritence and relationships between them.  I like looking at diagrams more than making my
+inheritance and relationships between them.  I like looking at diagrams more than making my
 own, and it would be useful to get an overview of the database when working in a new app or 
 double check my own apps to make sure everything was diagrammed the way I expected.  Getting
 another view of the app would help me think of ways to improve it or cut unused relationships.
 
 Kyle transitioned to talking about contributing to open source by talking about how she had
-and issue with setting up the Railroady gem that other people experienced as well.  She noticed
+an issue with setting up the Railroady gem that other people experienced as well.  She noticed
 that the fix would be a one line change to the source, so she submitted a pull request to
 address the problem, and the gem maintainer merged her commit.  She explained that *anyone*
 could do this - you don't have to work on something big to make a difference, and even if your
