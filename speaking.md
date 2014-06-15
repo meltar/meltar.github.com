@@ -5,6 +5,21 @@ description: "Public Speaking"
 ---
 {% include JB/setup %}
 
+## Getting Started With Pry
+### **Presented at the [Rails Girls Monthly Meetup](http://www.meetup.com/Rails-Girls-Atlanta/events/171773602/) on April 30, 2014**
+
+<div class="speaking-photo">
+	<img src="{{ site.url }}/assets/pictures/pry2.png" />
+</div>
+
+This was a concise lightning talk introducing the Pry gem, and I was one of four speakers for the night.
+
+See my [slides](https://docs.google.com/presentation/d/19tQq6J4kJJR61uCxygXzjpa7Bircut5T_6ISZbOmjSo/edit#slide=id.p)
+ and [blog post]({{ site.url }}/rails%20girls/2014/05/05/april-2014-rails-girls-meeting---getting-started-with-pry/")
+ for more about the talk.
+
+----
+
 ## Getting Started with GitHub Pages
 ### **Presented at the [Women Who Code Monthly Meetup](http://www.meetup.com/Women-Who-Code-Atlanta/events/158530803/) on March 11, 2014**
 
@@ -20,14 +35,14 @@ See my [slides](https://docs.google.com/presentation/d/1ytGYmz0svbn7ckmZrX6dygbB
 
 ----
 
-## Interactive Debugging Using Pry
-### **Presented at the [Rails Girls Monthly Meetup](http://www.meetup.com/Rails-Girls-Atlanta/events/147082012/) on December 18, 2014**
+## Interactive Ruby Using Pry
+### **Presented at the [Rails Girls Monthly Meetup](http://www.meetup.com/Rails-Girls-Atlanta/events/147082012/) on December 18, 2013**
 
 <div class="speaking-photo">
 	<img src="{{ site.url }}/assets/pictures/pry.png" />
 </div>
 
-I was the monthly main presenter for this meetup.
+I was the main presenter for this monthly meetup.
 
 See my [slides](https://docs.google.com/presentation/d/1RlBptG2n0lv7PFBjbrMsc4u8qXQ7IHgBx0w_zeC5bUY/pub?start=false&loop=false&delayms=3000#slide=id.p)
  and [blog post]({{ site.url }}/rails%20girls/2013/12/19/rails-girls-interactive-ruby-using-pry/)
