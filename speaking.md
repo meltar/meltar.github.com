@@ -5,7 +5,23 @@ description: "Public Speaking"
 ---
 {% include JB/setup %}
 
-## Getting Started With Pry
+## Validations in Rails
+
+### **Presented at the [Rails Girls Monthly Meetup](http://www.meetup.com/Rails-Girls-Atlanta/events/209059022/) on October 29, 2014**
+
+<div class="speaking-photo">
+	<img src="{{ site.url }}/assets/pictures/validate.png" />
+</div>
+
+I covered the main ways a developer can validate user input in a Rails
+ app and the advantages and disadvantages of each area in a beginner friendly format.
+
+See my [slides](https://docs.google.com/presentation/d/1Cw__QLn4qRTzIjje16_QQYwAE4EDK_hnPl3q6nifoLM/)
+ for more about the talk.
+
+----
+
+## Lightning Talk: Getting Started With Pry
 ### **Presented at the [Rails Girls Monthly Meetup](http://www.meetup.com/Rails-Girls-Atlanta/events/171773602/) on April 30, 2014**
 
 <div class="speaking-photo">
@@ -20,7 +36,7 @@ See my [slides](https://docs.google.com/presentation/d/19tQq6J4kJJR61uCxygXzjpa7
 
 ----
 
-## Getting Started with GitHub Pages
+## Lightning Talk: Getting Started with GitHub Pages
 ### **Presented at the [Women Who Code Monthly Meetup](http://www.meetup.com/Women-Who-Code-Atlanta/events/158530803/) on March 11, 2014**
 
 <div class="speaking-photo">
