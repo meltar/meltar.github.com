@@ -22,6 +22,7 @@ See my [slides](https://docs.google.com/presentation/d/1Cw__QLn4qRTzIjje16_QQYwA
 ----
 
 ## Lightning Talk: Getting Started With Pry
+
 ### **Presented at the [Rails Girls Monthly Meetup](http://www.meetup.com/Rails-Girls-Atlanta/events/171773602/) on April 30, 2014**
 
 <div class="speaking-photo">
@@ -31,12 +32,13 @@ See my [slides](https://docs.google.com/presentation/d/1Cw__QLn4qRTzIjje16_QQYwA
 This was a concise lightning talk introducing the Pry gem, and I was one of four speakers for the night.
 
 See my [slides](https://docs.google.com/presentation/d/19tQq6J4kJJR61uCxygXzjpa7Bircut5T_6ISZbOmjSo/edit#slide=id.p)
- and [blog post]({{ site.url }}/rails%20girls/2014/05/05/april-2014-rails-girls-meeting---getting-started-with-pry/")
+ and [blog post]({{ site.url }}/rails%20girls/2014/05/05/april-2014-rails-girls-meeting---getting-started-with-pry/)
  for more about the talk.
 
 ----
 
 ## Lightning Talk: Getting Started with GitHub Pages
+
 ### **Presented at the [Women Who Code Monthly Meetup](http://www.meetup.com/Women-Who-Code-Atlanta/events/158530803/) on March 11, 2014**
 
 <div class="speaking-photo">
@@ -52,6 +54,7 @@ See my [slides](https://docs.google.com/presentation/d/1ytGYmz0svbn7ckmZrX6dygbB
 ----
 
 ## Interactive Ruby Using Pry
+
 ### **Presented at the [Rails Girls Monthly Meetup](http://www.meetup.com/Rails-Girls-Atlanta/events/147082012/) on December 18, 2013**
 
 <div class="speaking-photo">
