@@ -43,25 +43,6 @@ Source: [https://github.com/thomas-holmes/eharvest](https://github.com/thomas-ho
 
 ***
 
-## EarthSpy
-
-### **[http://earthspy.herokuapp.com](http://earthspy.herokuapp.com)**  
-My project with [Kylie Stradley](https://github.com/kstradley) for the Atlanta
-[2014 Space Apps Challenge](https://2014.spaceappschallenge.org/location/atlanta/) event.
-
-We won the award for "Best Use of Data" at our location.
-
-Our [mission](https://2014.spaceappschallenge.org/challenge/earth-images-space-station/)
-was to take photos collected by the International Space Station iSERV camera  
-and make them accessible to the public.  We used the latitude and longitude in each  
-picture's filename to display the images on markers on a Google map.
-
-Source: [https://github.com/meltar/earthspy](https://github.com/meltar/earthspy)
-
-`Javascript` `Google Maps` `Ruby on Rails` `Ruby` `Pair Programming` `Hackathon`
-
-***
-
 ## Ruby on Rails Tutorial Sample App
 
 ### **[http://intense-citadel-7377.herokuapp.com/](http://intense-citadel-7377.herokuapp.com/)**
