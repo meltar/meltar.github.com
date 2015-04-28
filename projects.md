@@ -27,6 +27,7 @@ Source: [https://github.com/meltar/ChallengeChampion](https://github.com/meltar/
 
 
 ## eHarvest
+
 ### **(Coming Soon!)**  
 A hackathon project with [Thomas Holmes](https://github.com/thomas-holmes) and
 [Kylie Stradley](https://github.com/kstradley) for the [Atlanta National Day of  
@@ -43,6 +44,7 @@ Source: [https://github.com/thomas-holmes/eharvest](https://github.com/thomas-ho
 ***
 
 ## EarthSpy
+
 ### **[http://earthspy.herokuapp.com](http://earthspy.herokuapp.com)**  
 My project with [Kylie Stradley](https://github.com/kstradley) for the Atlanta
 [2014 Space Apps Challenge](https://2014.spaceappschallenge.org/location/atlanta/) event.
@@ -61,6 +63,7 @@ Source: [https://github.com/meltar/earthspy](https://github.com/meltar/earthspy)
 ***
 
 ## Ruby on Rails Tutorial Sample App
+
 ### **[http://intense-citadel-7377.herokuapp.com/](http://intense-citadel-7377.herokuapp.com/)**
 Michael Hartl's Ruby on Rails Tutorial updated for Rails 4.
 
@@ -75,6 +78,7 @@ Source: [https://github.com/meltar/sample_app_rails4](https://github.com/meltar/
 ***
 
 ## Personal Portfolio
+
 ### **[http://melissa.holmes.io](http://meltar.github.com)**
 My personal portfolio - You are looking at it now!
 
