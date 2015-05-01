@@ -24,7 +24,7 @@ met many amazing and kind people involved in the [Ruby on Rails community in Atl
 I started learning Ruby more seriously after that, and in the summer of 2013, I left my job at Drake Software to
 becoming a Ruby on Rails intern at the [Big Nerd Ranch](http://bignerdranch.com).  I found that consulting with so
 many brilliant developers was so much more interesting and and challenging than my previous job.  I loved being able
-to be paid to learn once again.  My internship ended in December of 2013, and now I'm working as a junior web
+to be paid to learn once again.  My internship ended in December of 2014, and now I'm working as a web
 developer at [Rentpath](http://rentpath.com/about-us/), continuing to add to my
 [personal apps]({{ site.url }}/projects.html), and leveling up my web development skills.
 
